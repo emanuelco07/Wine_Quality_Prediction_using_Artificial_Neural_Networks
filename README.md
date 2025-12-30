@@ -33,4 +33,4 @@ The project tests multiple architectures (ranging from 2 to 3 hidden layers). A 
 The study compared several architectures (RNA1r to RNA10a), analyzing the impact of layer depth, neuron count, and the number of epochs (up to 1000) on the final RMSE score. Detailed comparison tables for both red and white wine datasets are included in the documentation.
 
 ### Further Details
-For a detailed analysis of the variables, statistical parameters, and a comparison of all tested neural architectures, please refer to the [documentation]() in Romanian available in this repository.
+For a detailed analysis of the variables, statistical parameters, and a comparison of all tested neural architectures, please refer to the [documentation](https://github.com/emanuelco07/Wine_Quality_Prediction_using_Artificial_Neural_Networks/blob/main/Calitate_vinuri.pdf) in Romanian available in this repository.
